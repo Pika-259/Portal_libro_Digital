@@ -541,6 +541,24 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1CQ6eSgQIlE4QBtMRbxJ5j3E95QUYEoLf/view?usp=drive_link",//geom
             19: "https://drive.google.com/file/d/1N1Ym0UuQjRxkjVMGOTDBH7gUUntqofR3/view?usp=drive_link",//rm
             20: "https://drive.google.com/file/d/1PsM1GqG4lvvxUWOUiDj4JlZxUg_cUpqJ/view?usp=drive_link"//trig
+        },
+        "tomo-v": {
+            1: "https://drive.google.com/file/d/1fRLAimcT0C7qCAyf6RozJee9TwXGesbo/view?usp=drive_link",//Economia
+            2: "https://drive.google.com/file/d/1dOvUaJxe4hb67VTD2lWHqVoZz8fYP2hS/view?usp=drive_link",//geografia
+            3: "https://drive.google.com/file/d/1bDiaaVVO8gVWVS412E4M4VGlaGbPm0AV/view?usp=drive_link",//hp
+            4: "https://drive.google.com/file/d/1Lga5hE6frSOMhSSlac6DZlZntZ1u5zTw/view?usp=drive_link",//hu
+            5: "https://drive.google.com/file/d/1kRNjuBpcKpfHv8LhIzmMOieOB0WzmUNy/view?usp=drive_link",//psicologia
+            8: "https://drive.google.com/file/d/1CdhP1xkKTJORTMnfrbnJ-gSInVyJKm6i/view?usp=drive_link",//lenguaje
+            9: "https://drive.google.com/file/d/1-9xAkbYiUPD7BKKAkAVB71iSWxtwAuKb/view?usp=drive_link",//literatura
+            10: "https://drive.google.com/file/d/1zS6sV9HrFWsrma7hB9f-KmFVb979NxU-/view?usp=drive_link",//rv
+            13: "https://drive.google.com/file/d/1o_83nezbwhFM5F_M2ESbzw1LYEZ5pP5V/view?usp=drive_link",//biologia
+            14: "https://drive.google.com/file/d/1QTZqKQwAHGw_Flg_s-rNGJ003Y3m5q7L/view?usp=drive_link",//fisica
+            15: "https://drive.google.com/file/d/1JOoVfhOerqd5bBLkwci3OZWrxv4jFGlb/view?usp=drive_link",//quimica
+            16: "https://drive.google.com/file/d/1osxNV49_MIPN0M_XVLYGMeVOFQvjSVI_/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/1a6xjfWyRWip06-PjmhG_D3AruNieMPzQ/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1xiKymm1-AMvse38rNcpup5EOi51uTtVp/view?usp=drive_link",//geom
+            19: "https://drive.google.com/file/d/1ZR9ywdCkQ8kEWcsYcrseExJFeNmIDTHN/view?usp=drive_link",//rm
+            20: "https://drive.google.com/file/d/1zs4sGxbeNO2GePeUgPqTUTzoTNeLd1WM/view?usp=drive_link"//trig
         }
     },
     // ========== 5TOUNI (5to UNI) ==========
@@ -629,7 +647,8 @@ const tomos = [
     { id: "tomo-i", name: "Tomo I", icon: "fas fa-book" },
     { id: "tomo-ii", name: "Tomo II", icon: "fas fa-book" },
     { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
-    { id: "tomo-iv", name: "Tomo IV", icon: "fas fa-book" }
+    { id: "tomo-iv", name: "Tomo IV", icon: "fas fa-book" },
+    { id: "tomo-v", name: "Tomo V", icon: "fas fa-book" }
 ];
 
 // Estado actual
