@@ -594,6 +594,14 @@ const driveLinks = {
             17: "https://drive.google.com/file/d/1a7RsZLjKPavUEagdH2G3UxwIAogZoURu/view?usp=drive_link",//ARIT
             18: "https://drive.google.com/file/d/1fMkRKGtF91ew_QNJ00Evyj_gbIKFtbRU/view?usp=drive_link",//GMT
             20: "https://drive.google.com/file/d/1XJWKsOIIEmfPpWxlSjAPHiy_66Ms4sxe/view?usp=drive_link"//TRIG
+        },
+        "tomo-v": {
+            14: "https://drive.google.com/file/d/1zcwbDtZeJyjK6fY62MSt9g9rQkUkJYkS/view?usp=drive_link",//FIS
+            15: "https://drive.google.com/file/d/1bsrQ0ACXRcapSc8BdsAFVQLXfwA4YxxZ/view?usp=drive_link",//QUI
+            16: "https://drive.google.com/file/d/1L-52f-yvaM4g26DygVRrB7Y-hoV3I5pm/view?usp=drive_link",//ALG
+            17: "https://drive.google.com/file/d/1zUdb_obbVrE3yiDyMymXiAlnxPCCkTJE/view?usp=drive_link",//ARIT
+            18: "https://drive.google.com/file/d/1ncZdXg0rM4Af0SzjPbPLYdazsmCkJVar/view?usp=drive_link",//GMT
+            20: "https://drive.google.com/file/d/1nfomxLTcAYs7swF2WaY-bt8SoJ4TLyui/view?usp=drive_link"//TRIG
         }
     }
 };
