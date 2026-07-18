@@ -560,6 +560,24 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1I6sugD4wLsAY8NsCZhYZUBPtAT6m54eC/view?usp=drive_link",
             19: "https://drive.google.com/file/d/1R2HzykNp69vEto42CGDXd-y8ZRj364m-/view?usp=drive_link",
             20: "https://drive.google.com/file/d/1Gt3-gAwzZTd2HWQGKZB2LK2NRjU3rA5q/view?usp=drive_link"
+        },
+        "tomo-v": {
+            1: "https://drive.google.com/file/d/1Rbc8durRTcC6NZYB08ExNZvqM2ohn86F/view?usp=drive_link",//eco
+            2: "https://drive.google.com/file/d/1QR6BOWBDm_NVvIfEiez5AWulLdrPhXVl/view?usp=drive_link",//geo
+            3: "https://drive.google.com/file/d/1DRfmP8XFqEv_nee74ms9cDsuWdwyrL6f/view?usp=drive_link",//hp
+            4: "https://drive.google.com/file/d/1iW8o21V20MOeXMeeAbmGqNURibJJz9If/view?usp=drive_link",//hu
+            5: "https://drive.google.com/file/d/1ePUN2mic77cSQFqrq4PBegdPHAo2dUNX/view?usp=drive_link",//psi    
+            8: "https://drive.google.com/file/d/1hQ94y5VQ31kbqIw_3ag11KFN5jQSPX0z/view?usp=drive_link",//len
+            9: "https://drive.google.com/file/d/1BylbW1d5z86VyNHR9QFmoUeczReqzD0V/view?usp=drive_link",//lit
+            10: "https://drive.google.com/file/d/1jz1fYR2fzzOdL1cy_wQ9VHU8s6KEktwa/view?usp=drive_link",//rv
+            13: "https://drive.google.com/file/d/10sBbp-yjr8bNAlz6-CpOp2YvZlkVBFTU/view?usp=drive_link",//bio
+            14: "https://drive.google.com/file/d/1GnbNLYM4Ty287MHxp4f9cvjdG4p_7Zus/view?usp=drive_link",//fis
+            15: "https://drive.google.com/file/d/1eCIb9-BAbyWy_Ha8QwF7of62ejUfnLIk/view?usp=drive_link",//qui
+            16: "https://drive.google.com/file/d/1sAmQQ3InOE93OLRzdKD949zHKoviJqSE/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/14Umz5AOQyyxN9FT71KBkEm_YVBno2Pjf/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1Hgd53AOLeavrEkH9xt6h4fOyYolwLroq/view?usp=drive_link",//gmt
+            19: "https://drive.google.com/file/d/1cUe9NcGwp2JDk6FsdOu8syMQxGVZy7P4/view?usp=drive_link,//rm
+            20: "https://drive.google.com/file/d/1UNGBT9IRX8iA1QhA0m5S3N09eEW996Uk/view?usp=drive_link"//trig
         }
     },
     // ========== 5TOSM (5to San Marcos) ==========
