@@ -576,7 +576,7 @@ const driveLinks = {
             16: "https://drive.google.com/file/d/1sAmQQ3InOE93OLRzdKD949zHKoviJqSE/view?usp=drive_link",//alg
             17: "https://drive.google.com/file/d/14Umz5AOQyyxN9FT71KBkEm_YVBno2Pjf/view?usp=drive_link",//arit
             18: "https://drive.google.com/file/d/1Hgd53AOLeavrEkH9xt6h4fOyYolwLroq/view?usp=drive_link",//gmt
-            19: "https://drive.google.com/file/d/1cUe9NcGwp2JDk6FsdOu8syMQxGVZy7P4/view?usp=drive_link,//rm
+            19: "https://drive.google.com/file/d/1cUe9NcGwp2JDk6FsdOu8syMQxGVZy7P4/view?usp=drive_link",//rm
             20: "https://drive.google.com/file/d/1UNGBT9IRX8iA1QhA0m5S3N09eEW996Uk/view?usp=drive_link"//trig
         }
     },
