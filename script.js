@@ -671,6 +671,24 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1xiKymm1-AMvse38rNcpup5EOi51uTtVp/view?usp=drive_link",//geom
             19: "https://drive.google.com/file/d/1ZR9ywdCkQ8kEWcsYcrseExJFeNmIDTHN/view?usp=drive_link",//rm
             20: "https://drive.google.com/file/d/1zs4sGxbeNO2GePeUgPqTUTzoTNeLd1WM/view?usp=drive_link"//trig
+        },
+        "tomo-vi": {
+            1: "https://drive.google.com/file/d/18gcaIb4WqmjQHCi334rpyYSg9nobDSgj/view?usp=drive_link",//Economia
+            2: "https://drive.google.com/file/d/1KnXGIDG6Uu29nHZgtEZvyEwWefXsEsDh/view?usp=drive_link",//geografia
+            3: "https://drive.google.com/file/d/1rntawHeUWl6E46O7_-GMqeWTj7yZfBba/view?usp=drive_link",//hp
+            4: "https://drive.google.com/file/d/1g1wtNBj4n49XpShnbaeBgZPm6wL7Gi6s/view?usp=drive_link",//hu
+            5: "https://drive.google.com/file/d/1DH99ggg7Tl88HaiBsuiDaYhEtuMJx5Z3/view?usp=drive_link",//psicologia
+            8: "https://drive.google.com/file/d/1to1rYvvf2KvmusdeSS9_vBM1thRv6WRX/view?usp=drive_link",//lenguaje
+            9: "https://drive.google.com/file/d/1V_I4c88zjFuOwayByr4MxPsPEioWalD0/view?usp=drive_link",//literatura
+            10: "https://drive.google.com/file/d/1qN65oWnese8_JbJHYp2TIbnj1ulcqlha/view?usp=drive_link",//rv
+            13: "https://drive.google.com/file/d/1jy0omPqlzDCxBwkfxxe9lSrYsDcG0TX8/view?usp=drive_link",//biologia
+            14: "https://drive.google.com/file/d/1Ii1Q5r3zP0CV7zPv8D0OIyAnDnERAD1z/view?usp=drive_link",//fisica
+            15: "https://drive.google.com/file/d/1hbxYjB3Au8JplpgPJ5ejelzZAUF0g2QX/view?usp=drive_link",//quimica
+            16: "https://drive.google.com/file/d/1ERYuoznFpxOdN9NeL-nO5w68g4lthjla/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/1hJrIqrZgR1G2nG_9mgAXFjJHEUo1V06E/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1xiKymm1-AMvse38rNcpup5EOi51uTtVp/view?usp=drive_link",//geom
+            19: "https://drive.google.com/file/d/1UC1g_O6IMltGBVAUP3m3PDo9kyKEDFw9/view?usp=drive_link",//rm
+            20: "https://drive.google.com/file/d/1F89mnAaEIo-A8KV9uEElo9xdy7ZHlClK/view?usp=drive_link"//trig
         }
     },
     // ========== 5TOUNI (5to UNI) ==========
@@ -768,7 +786,8 @@ const tomos = [
     { id: "tomo-ii", name: "Tomo II", icon: "fas fa-book" },
     { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
     { id: "tomo-iv", name: "Tomo IV", icon: "fas fa-book" },
-    { id: "tomo-v", name: "Tomo V", icon: "fas fa-book" }
+    { id: "tomo-v", name: "Tomo V", icon: "fas fa-book" },
+    { id: "tomo-vi", name: "Tomo VI", icon: "fas fa-book" }
 ];
 
 // Estado actual
@@ -814,7 +833,8 @@ function generateTomoButtons() {
             { id: "tomo-ii", name: "Tomo II", icon: "fas fa-book" },
             { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
             { id: "tomo-iv", name: "Tomo IV", icon: "fas fa-book" },
-            { id: "tomo-v", name: "Tomo V", icon: "fas fa-book" }
+            { id: "tomo-v", name: "Tomo V", icon: "fas fa-book" },
+            { id: "tomo-vi", name: "Tomo VI", icon: "fas fa-book" }
         ];
     } else {
         tomosDisponibles = tomos.filter(t =>
